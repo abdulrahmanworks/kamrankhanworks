@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on [Fintech App](https://lendwizely.com/login)
 
-- 🌱 I’m currently interested to learn **Ruby, Python, Golang**
-
 - 🔭 & working On [E-commerce](https://collectwizely.com/login)
 
 - 🔭 & working On [Crypto Site](https://digiebot.com/)
+
+- 🌱 I’m currently interested to learn **Ruby, Python, Golang**
+
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing](https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing)
 
