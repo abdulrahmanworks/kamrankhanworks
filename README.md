@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamran Khan</h1>
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
 - 🔭 I’m currently working on [Fintech App](https://lendwizely.com/login)
@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing](https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing)
 
-- 📝 Want me to work for you? Just reach me out [ibifahar@gmail.com](ibifahar@gmail.com)
+- 📝 Want me to work for you? Just reach me out [Abdulrahmanmern@gmail.com](Abdulrahmanmern@gmail.com)
 
 - 💬 Ask me about **React, Vue, Node, Laravel**
 
-- 📫 How to reach me **ibifahar@gmail.com**
+- 📫 How to reach me **Abdulrahmanmern@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10dwKERqvGhahreFSQLwqPiJEiISXRCeM/edit?usp=sharing&ouid=112351895256551096031&rtpof=true&sd=true](https://docs.google.com/document/d/10dwKERqvGhahreFSQLwqPiJEiISXRCeM/edit?usp=sharing&ouid=112351895256551096031&rtpof=true&sd=true)
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-khan-553606249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-khan-553606249/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahmanworks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-khan-553606249/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
