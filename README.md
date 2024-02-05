@@ -10,7 +10,7 @@
 - 🌱 I’m currently interested to learn **Ruby, Python, Golang**
 
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing](https://drive.google.com/file/d/1mESUfAISU8KYl1uvhvN6sl-C3f1mg-uN/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1HyCBxGGNPH9d9rcn0e0Q7q-bJoKR3d3O/view)
 
 - 📝 Want me to work for you? Just reach me out [Abdulrahmanmern@gmail.com](Abdulrahmanmern@gmail.com)
 
@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **Abdulrahmanmern@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10dwKERqvGhahreFSQLwqPiJEiISXRCeM/edit?usp=sharing&ouid=112351895256551096031&rtpof=true&sd=true](https://docs.google.com/document/d/10dwKERqvGhahreFSQLwqPiJEiISXRCeM/edit?usp=sharing&ouid=112351895256551096031&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HyCBxGGNPH9d9rcn0e0Q7q-bJoKR3d3O/view]
+(https://drive.google.com/file/d/1HyCBxGGNPH9d9rcn0e0Q7q-bJoKR3d3O/view)
 
 - ⚡ Fun fact **I think i am funny**
 
